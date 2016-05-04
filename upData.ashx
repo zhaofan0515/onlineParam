@@ -1,6 +1,6 @@
 {
     "version": "1.1",
     "url": "www.baidu.com",
-    "message": "ÐÂ°æ±¾¸üºÃÓÃÅ¶",
+    "message": "æ–°ç‰ˆæœ¬æ›´å¥½ç”¨å“¦",
     "forceUpdate": "0"
 }
