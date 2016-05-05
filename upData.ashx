@@ -1,6 +1,6 @@
 ﻿{
     "version": "1.0测试版",
-    "url": "https://raw.githubusercontent.com/zhaofan0515/apk/master/bus.apk",
+    "url": "http://a.app.qq.com/o/simple.jsp?pkgname=com.base.basebus",
     "message": "新版本更好用哦",
     "forceUpdate": "0"
 }
